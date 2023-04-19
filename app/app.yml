@@ -11,7 +11,7 @@ spec:
   source:
     chart: ./app
     helm:
-      values: """
+      values: ""
     repoURL: https://github.com/michals02/kubernetesWorkshop.git
     targetRevision: *
   syncPolicy:
