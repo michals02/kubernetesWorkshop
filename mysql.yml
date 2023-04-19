@@ -3,8 +3,6 @@ kind: Application
 metadata:
   name: mysql
   namespace: argocd
-  resourceVersion: '30630'
-  uid: a69a968e-0aed-4dd5-b96e-f82a86592d76
 spec:
   destination:
     namespace: msiedlecki
